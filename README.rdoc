@@ -1,3 +1,3 @@
 = set_rank_from_estimated_hours_in_issues
 
-Description goes here
+予定工数からカスタムフィールドのランクを自動設定する。
